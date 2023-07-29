@@ -1,1 +1,1 @@
-# this is the exercise number 4 about js 
+# this is the exercise number 4 for js 
